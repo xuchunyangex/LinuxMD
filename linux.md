@@ -4,14 +4,16 @@ FAQ
 
 1. 如何卸载软件？ Ans:使用Synaptic Package Manager
 
-   ​
+`sudo apt-get install fcitx fcitx-googlepinyin` - shurufa
+`sudo apt-get install git` - git
+`` - sublime text
+`` - typora
 
 CMD
 
 命令查询网站
 
 http://man.linuxde.net/
-
 
 
 ### 软件包维护，删除和查询
