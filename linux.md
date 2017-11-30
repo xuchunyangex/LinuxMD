@@ -4,10 +4,24 @@ FAQ
 
 1. 如何卸载软件？ Ans:使用Synaptic Package Manager
 
+--------------------------------------------------------------------------
+### 装机必备软件
 `sudo apt-get install fcitx fcitx-googlepinyin` - shurufa
 `sudo apt-get install git` - git
 `` - sublime text
 `` - typora
+
+
+--------------------------------------------------------------------------
+
+### 常用命令
+`nano <path/file.postfix>` - 用nano文本编辑器打开某路径上的文本文件 
+
+#### C语言命令
+`#编译
+gcc -Wall -o blink blink.c -lwiringPi
+#运行
+sudo ./blink` - C语言编译和运行
 
 CMD
 
